@@ -1,1 +1,1 @@
-# MATH-381_Markov-Chain
+# Markov-Chain Simulation 
